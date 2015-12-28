@@ -1,0 +1,7 @@
+.texte1 {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 20px; color: #000000; text-align: justify}
+.unnamed1 {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 20px; font-weight: 900; text-transform: uppercase}
+.liste { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 20px; font-weight: normal; color: #000000; text-align: justify ; list-style-type: disc; list-style-position: outside; top: -10px; clip:  rect(   )}
+.link { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 20px; color: #009900; text-align: justify }
+.textecolor { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 20px; color: #330099; text-align: justify }
+.texte2 { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: 14px; color: #003399; text-align: right; text-transform: uppercase}
+.listenum { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; line-height: 20px; font-weight: normal; color: #000000; text-align: justify ; list-style-type: decimal; list-style-position: outside; top: -10px; clip: rect( ) }
